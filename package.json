@@ -1,0 +1,23 @@
+{
+  "name": "hardhatcoffee",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^3.0.0",
+    "hardhat": "^2.17.1"
+  },
+  "dependencies": {
+    "@ethereum-waffle/chai": "^4.0.10",
+    "@nomiclabs/hardhat-ethers": "^2.2.3",
+    "@nomiclabs/hardhat-waffle": "^2.0.6",
+    "dotenv": "^16.3.1",
+    "ethereum-waffle": "^4.0.10",
+    "latest-version": "^7.0.0"
+  }
+}
